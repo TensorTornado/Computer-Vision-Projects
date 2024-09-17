@@ -22,3 +22,14 @@ git clone https://github.com/TensorTornado/Computer-Vision-Projects.git
 
 # Install dependencies
 pip install -r requirements.txt
+
+Usage
+Download a pre-trained model or train one from scratch using the provided scripts.
+Run object detection on an image or video stream.
+
+Results
+The model can detect X objects with Y% accuracy in real-time.
+
+Future Work
+Improve object detection accuracy using advanced models like EfficientDet.
+Apply this model to video streams for real-time detection.
