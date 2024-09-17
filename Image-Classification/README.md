@@ -12,3 +12,8 @@ git clone https://github.com/yourusername/Computer-Vision-Projects.git
 
 # Install dependencies
 pip install -r requirements.txt
+
+Usage
+Download and preprocess the dataset.
+Train the classification model using the provided script.
+Evaluate the model's performance.
