@@ -17,3 +17,10 @@ Usage
 Download and preprocess the dataset.
 Train the classification model using the provided script.
 Evaluate the model's performance.
+
+Results
+The model achieved an accuracy of X% on the test dataset.
+
+Future Improvements
+Experiment with data augmentation.
+Use transfer learning to improve accuracy.
