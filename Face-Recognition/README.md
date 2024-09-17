@@ -15,3 +15,15 @@ This project focuses on recognizing faces in images and video feeds using deep l
 git clone https://github.com/yourusername/Computer-Vision-Projects.git
 # Install dependencies
 pip install -r requirements.txt
+
+Usage
+Train or load a pre-trained face recognition model.
+Run face recognition on an image or video.
+
+Results
+The model can recognize faces with an accuracy of X% on the test set.
+
+Future Work
+Implement real-time face recognition using a live video feed.
+Improve recognition accuracy by fine-tuning the model with more data.
+These README files provide a clear structure, usage instructions, and scope for each project. You can customize the content further based on the actual datasets, models, and performance metrics you achieve.
