@@ -3,7 +3,7 @@ import face_recognition
 import numpy as np
 
 # Load known image
-image_path = "/Users/arinzemomife/Desktop/image-path/kids.jpg"
+image_path = "/Users/YOUR-COMPUTER-NAME/Desktop/image-path/kids.jpg"
 known_image = face_recognition.load_image_file(image_path)
 known_face_encoding = face_recognition.face_encodings(known_image)[0]
 
